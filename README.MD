@@ -14,9 +14,7 @@ O projeto está dividido em três etapas principais:
     - Exemplos de código sem tratamento adequado de exceções.
 
 2. **Abordagem Intermediária - Tratamento Básico de Exceções**:
-    - Introduzimos o uso de blocos `try-catch` para capturar e tratar exceções.
-    - Mostramos como o tratamento de exceções pode melhorar a robustez do código.
-    - Exemplos de código com tratamento básico de exceções.
+    - Continuamos com o uso de validações por meio de condicionais, porém delegando a lógica de validação para a classe responsável
 
 3. **Abordagem Avançada - Tratamento Eficiente de Exceções**:
     - Melhoramos a implementação do tratamento de exceções.
